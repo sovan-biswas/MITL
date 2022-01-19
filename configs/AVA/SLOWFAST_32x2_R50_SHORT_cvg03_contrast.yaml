@@ -24,7 +24,7 @@ AVA:
   # FRAME_LIST_DIR: "/home/sovan/data/"
   FRAME_DIR: "/media/data/sovan/AVA_VAL_Videos/frames"
   FRAME_LIST_DIR: "/home/group-cvg/sovan/AVA/data/"
-  DETECTION_SCORE_THRESH: 0.0
+  DETECTION_SCORE_THRESH: 0.8
   TRAIN_GT_BOX_LISTS: ["ava_train_v2.2.csv"]
   TRAIN_PREDICT_BOX_LISTS: ["ava_train_v2.2s_weakly.csv"]
   TEST_PREDICT_BOX_LISTS: ["ava_val_v2.2_weakly.csv"]
